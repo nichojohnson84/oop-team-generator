@@ -34,6 +34,15 @@ I need to finish the project so that the page and cards have the correct styling
 
 I learned a lot.  I think you learn the most when you make mistakes over and over again.  Especially when you have almost no time to figure them out so you have to do your best with trial and error and online resources.  But I got much further than I imagined I ever would.
 
+**#Screenshots!!!**
+![one still fails](https://user-images.githubusercontent.com/94770081/154889864-60566ecd-a357-4cba-a3a2-32ec22b5dd3a.jpg)
+
+![fixed the error](https://user-images.githubusercontent.com/94770081/154889852-ec820f23-e423-481c-84fb-ca9f1a458f3d.jpg)
+
+![preferred layout](https://user-images.githubusercontent.com/94770081/154889825-6d902456-96d0-4ef2-9c4b-443ad8c64acc.jpg)
+
+![What I got](https://user-images.githubusercontent.com/94770081/154889794-06fbf1df-8e7c-4616-b21b-f4234c4a8573.jpg)
+
 ## License
 
 MIT
@@ -47,6 +56,13 @@ MIT
 - You can visit my page on GitHub below that also contains my contact information.
 
 ### You can also visit my repo and see some other projects I am workin on.
+
+https://github.com/nichojohnson84/oop-team-generator.git
+
+https://nichojohnson84.github.io/oop-team-generator/
+
+##Video Test
+https://drive.google.com/file/d/1DIIU1WFzycPJdm5Zm_M986CbhsP_Unp-/view
 
 ## Questions
  -[nichojohnson84](https://github.com/nichojohnson84)
