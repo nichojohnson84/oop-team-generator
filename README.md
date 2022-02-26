@@ -32,7 +32,7 @@ I need to finish the project so that the page and cards have the correct styling
 
 ### What did you learn while building this?
 
-I learned a lot.  I think you learn the most when you make mistakes over and over again.  Especially when you have almost no time to figure them out so you have to do your best with trial and error and online resources.  But I got much further than I imagined I ever would.
+I learned a lot.  I think you learn the most when you make mistakes over and over again.  Much of this I had to just do with trial and error but I suppose that is what testing is all about.  I had done an example with styling but my project didn't quite turn out that way.  I included some examples in the screenshots below but moving forward I hope to learn how to get the styling nailed down.
 
 **#Screenshots!!!**
 ![one still fails](https://user-images.githubusercontent.com/94770081/154889864-60566ecd-a357-4cba-a3a2-32ec22b5dd3a.jpg)
@@ -62,7 +62,7 @@ https://github.com/nichojohnson84/oop-team-generator.git
 https://nichojohnson84.github.io/oop-team-generator/
 
 ##Video Test
-https://drive.google.com/file/d/1DIIU1WFzycPJdm5Zm_M986CbhsP_Unp-/view
+https://drive.google.com/file/d/1Uj-ktSMliuZzCEAi8iQ-zdv9KY7GLAtr/view 
 
 ## Questions
  -[nichojohnson84](https://github.com/nichojohnson84)
